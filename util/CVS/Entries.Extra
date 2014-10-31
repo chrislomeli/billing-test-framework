@@ -1,0 +1,9 @@
+/EnvironmentAnsiC.h////*////
+/EnvironmentPortal.h////*////
+/EnvironmentSocket.h////*////
+/EnvironmentStd.h////*////
+/ErrorCode.h////*////
+/Portability.h////*////
+/Utility.h////*////
+/addrinfo.h////*////
+/config.unix.h////*////

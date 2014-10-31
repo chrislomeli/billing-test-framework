@@ -1,0 +1,12 @@
+/Makefile////*////
+/main.cpp////*////
+/tinystr.cpp////*////
+/tinystr.h////*////
+/tinyxml.cpp////*////
+/tinyxml.h////*////
+/tinyxmlerror.cpp////*////
+/tinyxmlinterface.cpp////*////
+/tinyxmlinterface.h////*////
+/tinyxmlparser.cpp////*////
+/xmloutput.cpp////*////
+/xmloutput.h////*////

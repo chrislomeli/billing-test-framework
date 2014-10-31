@@ -1,0 +1,27 @@
+// LogWriteLine.cpp: implementation of the LogWriteLine class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "LogWriteLine.h"
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+LogWriteLine::LogWriteLine()
+{
+
+}
+
+LogWriteLine::~LogWriteLine()
+{
+
+}
+
+string LogWriteLine::layoutMessage( EventLogType& e )
+{
+	 e._message.append("\n");
+	 return e._message;
+
+};
+

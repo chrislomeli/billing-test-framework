@@ -1,0 +1,10 @@
+/Makefile////*////
+/Makefile.am////*////
+/Makefile.in////*////
+/curl.h////*////
+/curlver.h////*////
+/easy.h////*////
+/mprintf.h////*////
+/multi.h////*////
+/stdcheaders.h////*////
+/types.h////*////

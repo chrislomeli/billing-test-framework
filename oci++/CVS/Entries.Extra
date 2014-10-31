@@ -1,0 +1,16 @@
+/Makefile////*////
+/ocibase.cpp////*////
+/ocibase.h////*////
+/ocidate.cpp////*////
+/ocidate.h////*////
+/ocisess.cpp////*////
+/ocisess.h////*////
+/ocistmt.cpp////*////
+/ocistmt.h////*////
+/ocistr.cpp////*////
+/ocistr.h////*////
+/ocitime.cpp////*////
+/ocitime.h////*////
+/ocitrans.cpp////*////
+/ocitrans.h////*////
+/stdinc.h////*////
